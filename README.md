@@ -1,4 +1,6 @@
 # www.pipecraft.net
 
-- [Discuss](https://discuss.pipecraft.net)
-- [Games](https://games.pipecraft.net)
+- [www.pipecraft.net](https://www.pipecraft.net)
+- [utags.pipecraft.net](https://utags.pipecraft.net)
+- [utags.link](https://utags.link)
+- [utags.top](https://utags.top)
